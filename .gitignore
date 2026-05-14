@@ -29,3 +29,4 @@ dist/
 .DS_Store
 Thumbs.db
 
+fast_api_demo/
