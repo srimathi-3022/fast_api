@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Book Store Management API
 
 A scalable and lightweight RESTful API developed using FastAPI and MongoDB Atlas for managing book records. The application supports book creation and retrieval operations with automatic ID generation and cloud database integration.
