@@ -16,7 +16,7 @@ Create a new cluster
 Configure database user credentials
 Add IP address to network access whitelist
 Copy the MongoDB connection string
-=======
+
 # Bookstore API Project
 
 ## Project Overview
