@@ -287,4 +287,3 @@ This project helps understand the following backend development concepts:
 The Bookstore API project is a beginner-friendly backend application developed using FastAPI and MongoDB. The project demonstrates how to build REST APIs with proper routing, database integration, validations, and exception handling.
 
 The application provides a strong foundation for learning backend development and can be extended further by adding features such as update/delete operations, authentication, JWT security, pagination, and frontend integration.
->>>>>>> ae3d6c8 (committing the updated version)
